@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Raleway&display=swap');
+
+h1 {
+    font-size: 45px;
+    font-family: 'Nunito', sans-serif;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+}
+
+table {
+    font-family: 'Raleway', sans-serif;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
